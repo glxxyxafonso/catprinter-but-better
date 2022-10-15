@@ -7,7 +7,7 @@ This repository contains Python code for talking to the cat printer over Bluetoo
 # Installation
 ```bash
 # Clone the repository.
-$ git clone git@github.com:rbaron/catprinter.git
+$ git clone git@github.com:glxxyxafonso/catprinter-but-better.git
 $ cd catprinter
 # Create a virtualenv on venv/ and activate it.
 $ virtualenv --python=python3 venv
